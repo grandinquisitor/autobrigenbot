@@ -1,0 +1,39 @@
+subreddit: 
+user: 
+passwd: 
+feed_loc: 
+user_agent: 
+
+banned_sites: 
+  - thenewatlantis.com
+  - sciencedaily.com
+  - cogsci.stackexchange.com
+  - productivity.stackexchange.com
+  - io9.com
+
+banned_titles :
+  - Today in Science
+  - Aunt Pythia
+  - Weekly LW Meetups
+  - Weekly Link Roundup
+
+rate_limit: 2
+post_limit: 1
+
+percent_filter: 70
+
+banned_sites:
+  - thenewatlantis.com
+  - sciencedaily.com
+  - cogsci.stackexchange.com
+  - productivity.stackexchange.com
+  - io9.com
+
+banned_titles:
+  - Today in Science
+  - Aunt Pythia
+  - Weekly LW Meetups
+  - Weekly Link Roundup
+
+aggregate_feed_url:
+
